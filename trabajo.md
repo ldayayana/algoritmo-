@@ -1,4 +1,4 @@
-# Primera entrega de algoritmo y programación 
+# PPrimera entrega de algoritmo y programación 
 
 ## Miembros
 Lizeth Dayana Valencia Higuita
