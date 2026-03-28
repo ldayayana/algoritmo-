@@ -1,6 +1,6 @@
-# primera entrega de algoritmo y programación 
+# Primera entrega de algoritmo y programación 
 
-## miembros
+## Miembros
 Lizeth Dayana Valencia Higuita
 Fortalezas en análisis de requisitos y documentación técnica
 Jean Carlos Quinto Aguirre
